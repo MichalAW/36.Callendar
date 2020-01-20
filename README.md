@@ -1,2 +1,2 @@
-# 36.Callendar
-Test of Callendar
+1. prework - 
+2. Delete in progress
